@@ -1,0 +1,29 @@
+
+body {
+	font-family: Tahoma;
+	font-size: 35px;
+	color: white;
+	background-image: url("background/download.png");
+    background-size: 750px;
+	max-width: 1000px;
+	margin: auto;
+	margin-top: 200px;
+}
+
+#LogoContainer{
+	position: absolute;
+	width: 200px;
+	left: 50%;
+	top: 10%;
+	margin-left: -250px;
+}
+
+#VersionContainer{
+	font-family: Tahoma;
+	left: 50%;
+	top: 15%;
+}
+
+#logo {
+	width: 500px;
+}
